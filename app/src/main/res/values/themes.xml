@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.SpeechToGif" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary branding color. -->
+        <item name="colorPrimary">#FF6F00</item>
+        <item name="colorPrimaryVariant">#FF8A65</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <!-- Secondary branding color. -->
+        <item name="colorSecondary">#FF5722</item>
+        <item name="colorSecondaryVariant">#E64A19</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">#FF6F00</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

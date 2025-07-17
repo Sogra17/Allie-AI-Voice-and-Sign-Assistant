@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HandSignRecognizer</string>
+    <string name="gesture">Gesture:</string>
+    <string name="gesture_text">Gesture: %1$s</string>
+</resources>
